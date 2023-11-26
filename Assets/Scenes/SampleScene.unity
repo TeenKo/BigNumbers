@@ -338,7 +338,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18f7e75a43980fc46a07508abccc7771, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: 66516516516516151
+  firstNumber: 1234
+  secondNumber: 1100000000000
+  shortNumber: 
+  bigNumber: 
+  greater: 0
 --- !u!4 &1937175957
 Transform:
   m_ObjectHideFlags: 0
